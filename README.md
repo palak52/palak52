@@ -19,4 +19,4 @@ Git  GitHub  Visual Studio Code  Firebase
 
 
 🤝🏻  Connect with Me
-   [gmail]palvaishnav78@gmail.com 
+   [palvaishnav78@gmail.com ](gmail)
