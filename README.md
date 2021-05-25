@@ -11,3 +11,8 @@
 palak52/palak52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+🛠  Tech Stack
+C  C++  spring  Java
+HTML  CSS  JavaScript  Bootstrap
+React  Redux  Material UI
+Git  GitHub  Visual Studio Code  Firebase 
