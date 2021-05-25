@@ -20,4 +20,6 @@ Git  GitHub  Visual Studio Code  Firebase
 
 🤝🏻  Connect with Me
    [palvaishnav78@gmail.com ](gmail) 
+   [https://www.linkedin.com/in/palak-vaishnav-0b5224190/] (linkedin)
+   
    
