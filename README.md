@@ -16,3 +16,7 @@ C  C++  spring  Java
 HTML  CSS  JavaScript  Bootstrap
 React  Redux  Material UI
 Git  GitHub  Visual Studio Code  Firebase 
+
+
+🤝🏻  Connect with Me
+   [gmail]palvaishnav78@gmail.com 
