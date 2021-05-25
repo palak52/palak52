@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @palak52
-- 👀 I’m interested in ...Developeing with React 
-- 🌱 I’m currently learning ... Reactjs , React native, various Database and networking ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @palak52
+👀 I’m interested in ...Developeing with React 
+💡  I am FrontEnd Development enthusiast and like to explore Frontend technologies and develop amazing projects and quick hacks.
+🎓  I'm currently studying Computer Science and Engineering at Dr . Subhash Technical campus.
+🌱  I'm on track for learning more about Full Stack Development.
+✍️  In my free time, I pursue video editing as a hobby.
+✉️  You can shoot me an email at palvaishnav78@gmail.com , I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 <!---
 palak52/palak52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
