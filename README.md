@@ -15,7 +15,6 @@
 
 ![C](https://img.shields.io/badge/-C-3f37c9?style=flat&logo=C&logoColor=ffffff)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-a2d2ff?style=flat&logo=C%2B%2B&logoColor=ffffff)&nbsp;
-<!-- ![Python](https://img.shields.io/badge/-Python-1d3557?style=flat&logo=python&logoColor=ffffff)&nbsp; -->
 ![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=Java&logoColor=ffffff)\
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)&nbsp;
@@ -23,15 +22,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)\
 ![React](https://img.shields.io/badge/-React-0496ff?style=flat&logo=react&logoColor=ffffff)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-9b76d8?style=flat&logo=redux&logoColor=ffffff)&nbsp;
-<!-- ![MobX](https://img.shields.io/badge/-MobX-f27f34?style=flat&logo=mobx&logoColor=ffffff)&nbsp; -->
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0496ff?style=flat&logo=material-ui&logoColor=ffffff)\
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=ffffff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-ffa611?style=flat&logo=firebase&logoColor=ffffff)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-F89820?style=flat&logo=Spring&logoColor=ffffff)\
-
-
+![Spring](https://img.shields.io/badge/-Spring-F89820?style=flat&logo=Spring&logoColor=ffffff)
+<!-- ![Python](https://img.shields.io/badge/-Python-1d3557?style=flat&logo=python&logoColor=ffffff)&nbsp; -->
+<!-- ![MobX](https://img.shields.io/badge/-MobX-f27f34?style=flat&logo=mobx&logoColor=ffffff)&nbsp; -->
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
