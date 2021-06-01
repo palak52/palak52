@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-ffa611?style=flat&logo=firebase&logoColor=ffffff)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-F89820?style=flat&logo=Spring&logoColor=ffffff)
-![NodeJs](https://img.shields.io/badge/-NodeJS-F89820?style=flat&logo=NodeJS&logoColor=7CFC00)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJS-F89820?style=flat&logo=NodeJS&logoColor=ffffff)&nbsp;
 <!-- ![Python](https://img.shields.io/badge/-Python-1d3557?style=flat&logo=python&logoColor=ffffff)&nbsp; -->
 <!-- ![MobX](https://img.shields.io/badge/-MobX-f27f34?style=flat&logo=mobx&logoColor=ffffff)&nbsp; -->
 
