@@ -5,7 +5,7 @@
 💡 &nbsp;I am FrontEnd Development enthusiast and like to explore Frontend technologies and develop amazing projects and quick hacks.\
 🎓 &nbsp;I'm currently studying Information Technology Engineering at G H Patel College of Engineering and Technology.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
-✍️ &nbsp;In my free time, I pursue Poem Writing as a hobby.\
+✍️ &nbsp;In my free time, I pursue video editing as a hobby.\
 ✉️ &nbsp;You can shoot me an email at palvaishnav78@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1190JuSmxT7xasxtCqrXIUv3UIY_kv4Qr/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
