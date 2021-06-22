@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am FrontEnd Development enthusiast and like to explore Frontend technologies and develop amazing projects and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology Engineering at G H Patel College of Engineering and Technology.\
+🎓 &nbsp;I'm currently studying Computer Science & Engineering At Dr.Subhash Technical Campus.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I pursue video editing as a hobby.\
 ✉️ &nbsp;You can shoot me an email at palvaishnav78@gmail.com! I'll try to respond as soon as I can.\
